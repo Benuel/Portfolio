@@ -23,7 +23,7 @@ This project focuses on the development of an **offline-first Progressive Web Ap
 
 For a detailed breakdown of the methodology, algorithms, and results, please refer to the project poster below.
 
-![Thesis Poster](./assets/poster.jpg)
+![Thesis Poster](./assets/Poster.jpg)
 
 
 ## Confidentiality Notice
